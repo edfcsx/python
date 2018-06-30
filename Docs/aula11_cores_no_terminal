@@ -1,0 +1,31 @@
+cores
+
+\033[0:33:44:m
+\033 -> comando ansi
+0 -> Stle
+33 -> text
+44 -> background
+
+-----------------STYLE--------------------
+0 - None
+1 - Bold
+4 - Underline
+7 - Negative
+-----------------TEXT----------------------
+30 - white
+31 - red
+32 - green
+33 - yellow
+34 - blue
+35 - purple
+36 - green and blue
+37 - gray
+----------------BACKGROUND-------------------
+40 - white
+41 - red
+42 - green
+43 - yellow
+44 - blue
+45 - purple
+46 - green and blue
+47 - gray
